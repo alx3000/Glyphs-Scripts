@@ -1,4 +1,8 @@
-# add guides in all masters
+#MenuTitle: Copy guides to all masters
+# -*- coding: utf-8 -*-
+__doc__ = """
+Copies selected guides to all masters
+"""
 
 font = Glyphs.font
 mylayer = font.selectedLayers[0]
